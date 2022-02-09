@@ -1,5 +1,5 @@
 import "./styles.css";
-
+import "./index.ts
 export default function App() {
   return (
     <div className="App">
