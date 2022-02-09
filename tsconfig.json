@@ -8,7 +8,12 @@
         "lib": [
             "dom",
             "es2015"
+            "es6"
         ],
         "jsx": "react-jsx"
+        "moduleResolution": "node"
+        "rootDir": "src",
+        "sourceMap": true,
+        "allowJs": true,
     }
 }
