@@ -1,9 +1,8 @@
 import * as React from "react";
 import { render } from "react-dom";
-
+import "./dmd.tsx";
 import "./styles.css";
 import { HashRouter, Route, Link, Switch } from "react-router-dom";
-
 import { Steps } from "./Steps";
 
 function App() {
